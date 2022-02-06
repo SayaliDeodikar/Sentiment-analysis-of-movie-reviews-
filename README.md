@@ -1,5 +1,17 @@
 # Sentiment-analysis-of-movie-reviews-
 
+## Natural Language Processing Based Project 
+
+Keywords => 
+ 
+* Tokenization
+* Lemmatization
+* Stemming
+* Bag of words
+* Term frequency - Inverse document frequency 
+
+## Dataset 
+
 Dataset is available on kaggle
 
 Link to dataset => 
